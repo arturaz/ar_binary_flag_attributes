@@ -1,4 +1,4 @@
-module ActiveRecord::Base
+class ActiveRecord::Base
   # Allows you to conserve space by storing several boolean attributes to one
   # integer attribute.
   #
